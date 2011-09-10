@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/134/trunk/examples
+END
+split_video_for_youtube.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/132/trunk/examples/split_video_for_youtube.sh
+END
+upload_with_curl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/134/trunk/examples/upload_with_curl.sh
+END
